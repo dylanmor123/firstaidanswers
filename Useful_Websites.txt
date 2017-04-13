@@ -1,1 +1,7 @@
-http://www.redcross.org.uk/What-we-do/First-aid/Everyday-First-Aid
+1. RED CROSS FIRST AID APP
+2. BRITISH RED CROSS FIRST AID WEBSITE
+	- http://www.redcross.org.uk/What-we-do/First-aid/Everyday-First-Aid
+3. CITY OF CHICAGO FOIA REQUESTS WEBSITE
+	- https://www.cityofchicago.org/city/en/depts/oem/dataset/foialog.html
+4. CITY OF CHICAGO FOIA REQUEST EMAIL
+	- OEMCfoia@cityofchicago.org
