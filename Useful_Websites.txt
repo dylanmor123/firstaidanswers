@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 1. RED CROSS FIRST AID APP
 2. BRITISH RED CROSS FIRST AID WEBSITE
 	- http://www.redcross.org.uk/What-we-do/First-aid/Everyday-First-Aid
@@ -6,8 +5,11 @@
 	- https://www.cityofchicago.org/city/en/depts/oem/dataset/foialog.html
 4. CITY OF CHICAGO FOIA REQUEST EMAIL
 	- OEMCfoia@cityofchicago.org
-=======
-http://www.redcross.org.uk/What-we-do/First-aid/Everyday-First-Aid
-http://www.wikihow.com/
-http://www.wikihow.com/Remove-a-Splinter
->>>>>>> 3684ce9ddd887189acb1285aa6fdfa3509c3b4d3
+5. WIKIHOW
+	- http://www.wikihow.com/
+6. WIKIHOW EXAMPLE FIRST AID WEBPAGE:
+	- http://www.wikihow.com/Remove-a-Splinter
+7. MAYO CLINIC FIRST AID WEBPAGE
+	- http://www.mayoclinic.org/first-aid/
+8. ST JOHN FIRST AID WEBPAGE
+	- http://stjohn.org.au/first-aid-facts
