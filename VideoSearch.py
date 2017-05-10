@@ -11,5 +11,5 @@ def SearchYouTube(textToSearch):
 	return 'https://www.youtube.com' + links[0]['href']
 
 
-search_query = raw_input("What's Your Emergency: ")
-webbrowser.open(SearchYouTube(search_query))
+#search_query = raw_input("What's Your Emergency: ")
+#webbrowser.open(SearchYouTube(search_query))

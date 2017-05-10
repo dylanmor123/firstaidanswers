@@ -23,5 +23,5 @@ def SearchImage(query):
 	return ActualImages[0][0]
 
 
-search_query = raw_input("What's Your Emergency: ")
-webbrowser.open(SearchImage(search_query))
+#search_query = raw_input("What's Your Emergency: ")
+#webbrowser.open(SearchImage(search_query))
