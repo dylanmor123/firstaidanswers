@@ -1,5 +1,6 @@
 import urllib, urllib2, webbrowser
 from bs4 import BeautifulSoup
+
 def SearchYouTube(textToSearch):
 	query = urllib.quote(textToSearch)
 	url = "https://www.youtube.com/results?search_query=" + query
