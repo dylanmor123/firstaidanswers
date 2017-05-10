@@ -13,7 +13,7 @@ def getHarvardHealthLinkContent(link):
 	page_content = ""
 	for p in ptags:
 		p = p.text.encode('ascii', 'ignore')
-		page_content += p
+		page_content += p + " "
 	title = title.encode('ascii', 'ignore')
 	return [title.lstrip(), page_content.lstrip()]
 

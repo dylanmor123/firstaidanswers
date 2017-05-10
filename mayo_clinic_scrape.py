@@ -34,12 +34,12 @@ def getMayoClinicLinkContent(link):
 
 	for p in ptags:
 		p = p.text.encode('ascii', 'ignore')
-		final_text += p
+		final_text += p + " "
 		
 	for t in text:
 		if "http" not in t:
 			t = t.encode('ascii', 'ignore')
-			final_text += t
+			final_text += t + " "
 
 
 	return [title.lstrip(), final_text.lstrip()]
