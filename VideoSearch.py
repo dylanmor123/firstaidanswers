@@ -12,5 +12,4 @@ def SearchYouTube(textToSearch):
 
 
 search_query = raw_input("What's Your Emergency: ")
-
 webbrowser.open(SearchYouTube(search_query))
