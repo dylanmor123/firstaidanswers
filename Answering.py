@@ -8,8 +8,9 @@ VIDEO_CATEGORIES = ["What if", "Should I", "What should I do if", "How do I", "H
 IMAGE_CATEGORIES = ["What is", "What are the signs and symptoms of"]
 
 def Answer(question):
-	
+
 	while question != "OK":
+		answer_found = False
 		for category in IMAGE_CATEGORIES:
 			if category in question:
 				webbrowser.open(SearchImage(question))
@@ -21,7 +22,17 @@ def Answer(question):
 				webbrowser.open(SearchYouTube(question))
 				question = raw_input("What's Your Emergency: ")
 
+
+				
+		if not answer_found:
+			print "Sorry, we couldn't find the answer you were looking for"
+			break
+				
+
 	return
+
+
+#def getStory(category, keywords):
 
 
 
